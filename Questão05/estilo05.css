@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*.container {
+    position: relative;
+    margin: 0 auto;
+}*/
+
+.cima {
+    width: 100%;
+    height: 70px;
+    background-color: blue;
+    float: left;
+}
+
+.divisao{
+    width: 100%;
+    height: 20px;
+    background-color: lime;
+    float: left;
+}
+
+.esquerda {
+    width: 25%;
+    height: 400px;
+    background-color: red;
+    float: left;
+}
+
+.centro {
+    width: 50%;
+    height: 400px;
+    background-color: cyan;
+    float: left;
+}
+
+.direita {
+    width: 25%;
+    height: 400px;
+    background-color: brown;
+    float: left;
+}
+
+.baixo {
+    width: 100%;
+    height: 20px;
+    background-color: lime;
+    clear: both;
+}
