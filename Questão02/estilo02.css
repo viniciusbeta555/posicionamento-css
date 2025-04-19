@@ -1,0 +1,40 @@
+.lado {
+    display: flex;
+    
+}
+
+.container{
+    display: flex;
+}
+
+.esqcima,
+.dircima,
+.esqbaixo,
+.dirbaixo {
+  width: 80px;
+  height: 80px;
+  margin: 0;
+  padding: 0;
+  vertical-align: top;
+}
+  
+.esqcima {
+    background-color: red;
+    
+}
+  
+.dircima {
+    background-color: yellow;
+    
+}
+  
+.esqbaixo {
+    background-color: green;
+    
+}
+  
+.dirbaixo {
+    background-color: blue;
+    
+}
+  
